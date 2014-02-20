@@ -3,7 +3,7 @@ Acorn Child
 
 Child Theme for [Acorn Wordpress Theme](http://theme6.com/acorn/).
 
-Download [Acorn Child Theme](http://downloads.theme6.com/acorn-child.zip) (zip).
+Download [Acorn Child Theme](https://github.com/theme6/acorn-child/archive/master.zip) (zip).
 
 ### Why a Child Theme?
 
